@@ -14,6 +14,8 @@ sites:
     url: https://thissitedoesnotexist.com
   - name: Secret Site
     url: $SECRET_SITE
+  - name: 走在寂静里
+    url: https://www.sirius1228.me
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
