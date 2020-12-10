@@ -87,9 +87,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2020-12-10": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "走在寂静里",
@@ -97,18 +95,16 @@
     "icon": "https://favicons.githubusercontent.com/www.sirius1228.me",
     "slug": "",
     "status": "up",
-    "uptime": "62.96%",
-    "uptimeDay": "62.96%",
-    "uptimeWeek": "62.96%",
-    "uptimeMonth": "62.96%",
-    "uptimeYear": "62.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 868,
     "timeDay": 868,
     "timeWeek": 868,
     "timeMonth": 868,
     "timeYear": 868,
-    "dailyMinutesDown": {
-      "2020-12-10": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
