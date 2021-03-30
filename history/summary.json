@@ -5,17 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.94%",
     "time": 75,
-    "timeDay": 140,
-    "timeWeek": 83,
-    "timeMonth": 78,
+    "timeDay": 111,
+    "timeWeek": 89,
+    "timeMonth": 79,
     "timeYear": 75,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-15": 198
+    }
   },
   {
     "name": "Wikipedia",
@@ -23,17 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 320,
-    "timeWeek": 139,
-    "timeMonth": 115,
-    "timeYear": 134,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.94%",
+    "time": 135,
+    "timeDay": 228,
+    "timeWeek": 165,
+    "timeMonth": 119,
+    "timeYear": 135,
+    "dailyMinutesDown": {
+      "2021-03-15": 198
+    }
   },
   {
     "name": "Hacker News",
@@ -47,9 +51,9 @@
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.94%",
     "time": 416,
-    "timeDay": 344,
-    "timeWeek": 380,
-    "timeMonth": 403,
+    "timeDay": 373,
+    "timeWeek": 369,
+    "timeMonth": 402,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2021-03-15": 198
@@ -66,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.87%",
-    "time": 1024,
-    "timeDay": 1314,
-    "timeWeek": 1329,
-    "timeMonth": 1097,
-    "timeYear": 1024,
+    "time": 1025,
+    "timeDay": 1140,
+    "timeWeek": 1242,
+    "timeMonth": 1099,
+    "timeYear": 1025,
     "dailyMinutesDown": {
       "2021-03-15": 198
     }
