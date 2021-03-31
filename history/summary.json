@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 75,
-    "timeDay": 111,
+    "timeDay": 62,
     "timeWeek": 89,
-    "timeMonth": 79,
+    "timeMonth": 78,
     "timeYear": 75,
-    "dailyMinutesDown": {
-      "2021-03-15": 198
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.94%",
-    "time": 135,
-    "timeDay": 228,
-    "timeWeek": 165,
-    "timeMonth": 119,
-    "timeYear": 135,
-    "dailyMinutesDown": {
-      "2021-03-15": 198
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 134,
+    "timeDay": 18,
+    "timeWeek": 145,
+    "timeMonth": 115,
+    "timeYear": 134,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -51,9 +47,9 @@
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.94%",
     "time": 416,
-    "timeDay": 373,
-    "timeWeek": 369,
-    "timeMonth": 402,
+    "timeDay": 433,
+    "timeWeek": 355,
+    "timeMonth": 403,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2021-03-15": 198
@@ -65,16 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/www.sirius1228.me",
     "slug": "",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "99.87%",
-    "time": 1025,
-    "timeDay": 1140,
-    "timeWeek": 1242,
-    "timeMonth": 1099,
-    "timeYear": 1025,
+    "uptimeYear": "99.88%",
+    "time": 1028,
+    "timeDay": 1380,
+    "timeWeek": 1177,
+    "timeMonth": 1108,
+    "timeYear": 1028,
     "dailyMinutesDown": {
       "2021-03-15": 198
     }
