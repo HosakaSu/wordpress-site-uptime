@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 79,
-    "timeDay": 100,
-    "timeWeek": 100,
-    "timeMonth": 83,
-    "timeYear": 79,
-    "dailyMinutesDown": {}
+    "time": 80,
+    "timeDay": 227,
+    "timeWeek": 132,
+    "timeMonth": 92,
+    "timeYear": 80,
+    "dailyMinutesDown": {
+      "2021-05-30": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -62,7 +64,7 @@
     "slug": "",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -72,6 +74,7 @@
     "timeMonth": 1132,
     "timeYear": 1094,
     "dailyMinutesDown": {
+      "2021-05-30": 0,
       "2021-03-15": 198
     }
   }
